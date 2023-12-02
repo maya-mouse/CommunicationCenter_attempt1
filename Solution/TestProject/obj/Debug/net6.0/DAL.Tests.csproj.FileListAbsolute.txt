@@ -120,3 +120,4 @@ C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\TestProject\bin\
 C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\TestProject\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
 C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\TestProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\TestProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\TestProject\obj\Debug\net6.0\DAL.Tests.sourcelink.json

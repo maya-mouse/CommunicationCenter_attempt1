@@ -40,7 +40,7 @@ namespace DAL.Tests
             repository.Create(expectedCabinet);
             // Assert
             mockDbSet.Verify(dbSet => dbSet.Add(expectedCabinet), Times.Once());
-           // mockDbSet.Verify(dbSet => dbSet.Add(expectedCabinet), Times.Never());
+            //mockDbSet.Verify(dbSet => dbSet.Add(expectedCabinet), Times.Never());
         }
         [Fact]
         public void Get_InputId_CalledFindMethodOfDBSetWithCorrectId()
@@ -50,7 +50,10 @@ namespace DAL.Tests
             var mockContext = new Mock<CommunicationCenterContext>(opt);
             var mockDbSet = new Mock<DbSet<Cabinet>>();
             mockContext.Setup(context =>context.Set<Cabinet>()).Returns(mockDbSet.Object);
-            Cabinet expectedCabinet = new Cabinet() {CabinetID = 3};
+            Cabinet expectedCabinet = new Cabinet();
+         /*   {
+                CabinetID = 3
+            };*/
             mockDbSet.Setup(mock => mock.Find(expectedCabinet.CabinetID)).Returns(expectedCabinet);
             var repository = new TestCabinetRepository(mockContext.Object);
             //Act
