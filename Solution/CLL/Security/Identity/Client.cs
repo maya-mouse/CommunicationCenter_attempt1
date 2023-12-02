@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace CCL.Security.Identity
 {
-    internal class Client
+    public class Client
+       : User
     {
+        public Client(int UserID, int communicationcenterID, string Name, string Surname, string Email) 
+            : base(UserID, communicationcenterID ,Name, Surname, Email, nameof(Client))
+        {
+        }
     }
 }

@@ -1,18 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Entities
+namespace BLL.DTO
 {
-    public class Cabinet
+    public class CabinetDTO
     {
-        public int communicationcenterID {  get; set; }
-
-        [Key]
         public int CabinetID { get; set; }
     }
 }
-

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "t+UiRiuHLBwjRkFnjzHCwLn/uxIj7yCa1J6HBGbJuWwblr6RUaj9aEJxLivQNbe6dJY6aZvb3CSqZ5wyDuW0wQ==",
+  "dgSpecHash": "a97kyDwZ+f+V97/tajoR50XOrK7z8BmVZ9NA2H5OFaVknIY7811bhkjZw132MD19JAo9YOhzedHr/U2Zq6zrWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mouse\\Skrsky\\SDT\\CommunicationCenter_attempt1\\Solution\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mouse\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mouse\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mouse\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\mouse\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
     "C:\\Users\\mouse\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",

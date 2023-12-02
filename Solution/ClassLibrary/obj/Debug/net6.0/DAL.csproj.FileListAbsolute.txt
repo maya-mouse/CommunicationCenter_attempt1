@@ -12,3 +12,4 @@ C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\ClassLibrary\obj
 C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\ClassLibrary\obj\Debug\net6.0\ref\DAL.dll
 C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\ClassLibrary\bin\Debug\net6.0\DAL.runtimeconfig.json
 C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\ClassLibrary\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\mouse\Skrsky\SDT\CommunicationCenter_attempt1\Solution\ClassLibrary\obj\Debug\net6.0\DAL.sourcelink.json

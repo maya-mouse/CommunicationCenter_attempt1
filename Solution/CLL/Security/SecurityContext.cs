@@ -1,4 +1,5 @@
-﻿using DAL.Entities;
+﻿
+using CCL.Security.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
